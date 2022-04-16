@@ -24,4 +24,4 @@ Please use these codes for reference only, and **DO NOT CHEATING WITH MY CODES.*
 ---
 
 ## All Solved Category
-**[Class 1]() </br>**
+**[Class 1](https://github.com/WondooSeo/SOLVED_AC_Class_with_Python/tree/main/Class%201) </br>**
