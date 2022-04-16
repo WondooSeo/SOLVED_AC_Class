@@ -1,7 +1,7 @@
 
 ***※ This project is licensed under the terms of the MIT license. ※***
 
-# SOLVED_AC_Class_with_Python
+# SOLVED AC Class with Python
 
 <div align = 'center'>
   
