@@ -1,7 +1,7 @@
 
 ***※ This project is licensed under the terms of the MIT license. ※***
 
-# SOLVED.AC Class problem with Python
+# SOLVED.AC Class Problem with Python
 
 <div align = 'center'>
   
