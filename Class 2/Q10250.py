@@ -1,5 +1,4 @@
 import sys
-from math import ceil
 
 if __name__ == '__main__':
     T = int(sys.stdin.readline().rstrip())
